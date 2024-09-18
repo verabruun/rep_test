@@ -10,3 +10,5 @@ import numpy as np
 v = np.mean(range(10))
 
 e = v+10
+
+r = e%2
