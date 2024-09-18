@@ -11,6 +11,6 @@ v = np.mean(range(10))
 
 e = v+10
 
-r = e%2
+r = e/2+2
 
 a = r*1000
